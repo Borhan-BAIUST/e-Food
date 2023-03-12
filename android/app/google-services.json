@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255619471011",
+    "project_id": "efood-cc404",
+    "storage_bucket": "efood-cc404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255619471011:android:6a889f7cd9113904649116",
+        "android_client_info": {
+          "package_name": "com.borhan.efood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255619471011-r3m26d0nfitct77kd7id4p4qqgpk3pfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9m8VHBPr5q-y-IIBPK8LsGpMVZfoBlrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255619471011-r3m26d0nfitct77kd7id4p4qqgpk3pfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
